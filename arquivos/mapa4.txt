@@ -1,0 +1,2 @@
+aco B1 B2 C5 C6 E8 E9 G1 G2 I8 I9 K5 K6 L1 L2
+aguia G3
